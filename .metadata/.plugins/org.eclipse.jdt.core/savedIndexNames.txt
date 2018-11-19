@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+D:\Studia\semestr 3\PROZ Programowanie zdarzeniowe\Projekty\Zadanie-1\.metadata\.plugins\org.eclipse.jdt.core
+3034915643.index
+2690932465.index
+2065349811.index
+1617675572.index
+1627024764.index
+1459986188.index
+581636937.index
+2981432312.index
+26947845.index
+3388237329.index
