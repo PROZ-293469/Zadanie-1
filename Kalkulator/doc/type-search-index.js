@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"proz.calculator.view","l":"AlertBox"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"proz.calculator.view","l":"CalculatorController"},{"p":"proz.calculator.model","l":"JShellCalculations"},{"p":"proz.calculator","l":"Main"}]
